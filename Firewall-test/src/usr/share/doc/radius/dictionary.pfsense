@@ -1,0 +1,18 @@
+# -*- text -*-
+##############################################################################
+#
+#	bjerkerudFirewall Captive Portal
+#
+#	$Id$
+#
+##############################################################################
+
+VENDOR		bjerkerudFirewall				13644
+
+BEGIN-VENDOR	bjerkerudFirewall
+
+ATTRIBUTE	bjerkerudFirewall-Bandwidth-Max-Up		1	integer
+ATTRIBUTE	bjerkerudFirewall-Bandwidth-Max-Down		2	integer
+ATTRIBUTE	bjerkerudFirewall-Max-Total-Octets		3	integer
+
+END-VENDOR	bjerkerudFirewall
